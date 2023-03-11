@@ -1,6 +1,6 @@
 name: CI
 # on: [push]
-  on:
+on:
   pull_request:
     # types: [opened, reopened, synchronize, closed]
 jobs:

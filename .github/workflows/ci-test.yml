@@ -2,7 +2,7 @@ name: CI
 on: [push]
   # pull_request:
     # types: [opened, reopened, synchronize, closed]
-jobs:jobs:
+jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
